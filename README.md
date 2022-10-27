@@ -1,14 +1,31 @@
-# Exercise-03d-Shaders
+# 03-Juicy-Brick-Breaker
 
-Exercise for MSCH-C220
-
-The final step adding "juicy" features to a simple brick-breaker game.
+Project for MSCH-C220
 
 ## To play
 
 Move the paddle using the mouse. Release the ball (and trigger fever mode) using the left mouse button. Assist the ball in breaking all the bricks before you run out of time.
 
-## Implementation
+## Implementation/ Features used and added:
+
+-changing color
+-soundtrack and sound effects
+-squeeze and stretch
+-added music
+-animated brick apperance 
+-main menu
+-eyes and mouth
+-eyes tracking the ball
+-added particles when it hit bricks 
+-fireworks 
+-score board 
+-pause menu 
+-Shake the screen when something good happens
+-Shake the screen when an error occurs
+-Add a background to the main menu and game 
+-added trail to the ball 
+-changing colors
+-shaders 
 
 Built using Godot 3.5
 
